@@ -1,0 +1,6 @@
+{
+  "name": "Charbhairabi High School Voucher Management System",
+  "description": "চরভৈরবী উচ্চ বিদ্যালয় - ভাউচার জেনারেটর এবং ম্যানেজমেন্ট সফটওয়্যার",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
